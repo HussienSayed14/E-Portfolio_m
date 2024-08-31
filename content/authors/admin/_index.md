@@ -80,22 +80,25 @@ work:
     date_end: ""
     summary: |2-
       Managing the robotics research division at Isento, reporting directly to CEO:
-      -  Growing software team (cerebra) including 6 software developers to create a web application for interacting with the robot in addition to mentoring multiple interns
+      - Growing software team (cerebra) including 6 software developers to create a web application for interacting with the robot in addition to mentoring multiple interns
       - Developing the robot from a concept to a ready for market stable version
       - Designing ROS system architecture and integrating with cerebra application with CEO
       - Facilitating workshops to involve other departments in company in devolopment and decision making
       - Awarded for common good use of AI by Bundesministerium fur Arbeit in Berlin
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Robotics Scientist
+    company_name: isento GmbH
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2022-08-01
+    date_end: 2023-04-01
+    summary: |2-
+      As the first employee in the research department responsible for developing the first affordable humanoid robot; PIB, I had to create a solid base for the project to build upon
+      Here are some of my achievements:
+      - Designed multiple joints including elbow, wrist, thumb and partially neck.
+      - Designed a new hand using half the number of motors in the old design thus reducing cost and power.
+      - Designed and implemented the whole electronic and power system of the robot.
+      - Worked on conceptual interactive synthetic skin, including its physical design, electronic chips and code for interfacing.
+      - Participated in multiple fairs including maker faire Hannover and Dedacta
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
