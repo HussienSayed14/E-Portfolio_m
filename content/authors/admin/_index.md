@@ -29,11 +29,11 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/mazenimohsen?igsh=bmFpN2sydmM0d2Fy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mazen-m-552845ba
 
 interests:
   - Humanoid robots
-  - Joint mechanics and advanced gearsystems
+  - Joint mechanics & advanced gearsystems
   - Reinforcment learning based control
   - Imitiation based learning
   - AI edge acceleration
@@ -60,7 +60,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Executive certificate in Leadership and manigment
+  - area: Executive certificate in Leadership & manigment
     institution: David eccless business school/university of Utah
     date_start: 2016-01-01
     date_end: 2020-12-31
