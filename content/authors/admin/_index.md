@@ -116,7 +116,7 @@ work:
     company_logo: ""
     date_start: 2021-05-01
     date_end: 2022-02-01
-    summary: |2=
+    summary: |2-
       Part of the Internet of things bootcamp teaching team as an instructor.
       Here are some of my achievements:
       - Participated in delivering training in Arduino, Rpi, Python, Machine learning and AWS.
@@ -124,7 +124,6 @@ work:
       - Mentored one of the 3 graduating teams for their final project: a smart city.
       - Created curriculum for blockchain, cybersecurity and FinTech bootcamps.
 # Skills
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
