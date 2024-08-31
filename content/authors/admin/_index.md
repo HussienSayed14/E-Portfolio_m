@@ -72,17 +72,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Chief Robotics Scientist
+    company_name: isento GmbH
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
+    date_start: 2023-04-01
     date_end: ""
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Managing the robotics research division at Isento, reporting directly to CEO:
+      -  Growing software team (cerebra) including 6 software developers to create a web application for interacting with the robot in addition to mentoring multiple interns
+      - Developing the robot from a concept to a ready for market stable version
+      - Designing ROS system architecture and integrating with cerebra application with CEO
+      - Facilitating workshops to involve other departments in company in devolopment and decision making
+      - Awarded for common good use of AI by Bundesministerium fur Arbeit in Berlin
   - position: Backend Software Engineer
     company_name: X
     company_url: ""
