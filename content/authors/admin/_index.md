@@ -99,6 +99,31 @@ work:
       - Designed and implemented the whole electronic and power system of the robot.
       - Worked on conceptual interactive synthetic skin, including its physical design, electronic chips and code for interfacing.
       - Participated in multiple fairs including maker faire Hannover and Dedacta
+  - position: LEAD COMPLIANCE E-LEARNING ENGINEER
+    company_name: CCST
+    company_url: ""
+    company_logo: ""
+    date_start: 2022-03-01
+    date_end: 2023-08-01
+    summary: |2-
+      Responsible for creation of safety and compliance courses for workers and personnel in factories
+      Here are some of my achievements:
+      - Created 8+ modules for dealing with machinery and vehicles in a safe way.
+      - Participated in implementing the modules with online Moodle using AWS.
+  - position: Lead IOT Instructor
+    company_name: Coding Dojo
+    company_url: ""
+    company_logo: ""
+    date_start: 2021-05-01
+    date_end: 2022-02-01
+    summary: |2=
+      Part of the Internet of things bootcamp teaching team as an instructor.
+      Here are some of my achievements:
+      - Participated in delivering training in Arduino, Rpi, Python, Machine learning and AWS.
+      - Created recorded videos for networking interfaces.
+      - Mentored one of the 3 graduating teams for their final project: a smart city.
+      - Created curriculum for blockchain, cybersecurity and FinTech bootcamps.
+# Skills
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
