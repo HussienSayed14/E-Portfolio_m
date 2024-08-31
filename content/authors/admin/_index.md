@@ -85,7 +85,7 @@ work:
       - Designing ROS system architecture and integrating with cerebra application with CEO
       - Facilitating workshops to involve other departments in company in devolopment and decision making
       - Awarded for common good use of AI by Bundesministerium fur Arbeit in Berlin
-  - position: Chief Robotics Scientist
+  - position: Robotics Scientist
     company_name: isento GmbH
     company_url: ""
     company_logo: ""
