@@ -117,7 +117,7 @@ work:
     date_start: 2021-05-01
     date_end: 2022-02-01
     summary: |
-     Part of the Internet of things bootcamp teaching team as an instructor.
+      Part of the Internet of things bootcamp teaching team as an instructor.
       Here are some of my achievements:
       - Participated in delivering training in Arduino, Rpi, Python, Machine learning and AWS.
       - Created recorded videos for networking interfaces.
