@@ -72,29 +72,57 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Chief Robotics Scientist
+    company_name: isento GmbH
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
+    date_start: 2023-04-01
     date_end: ""
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Managing the robotics research division at Isento, reporting directly to CEO:
+      -  Growing software team (cerebra) including 6 software developers to create a web application for interacting with the robot in addition to mentoring multiple interns
+      - Developing the robot from a concept to a ready for market stable version
+      - Designing ROS system architecture and integrating with cerebra application with CEO
+      - Facilitating workshops to involve other departments in company in devolopment and decision making
+      - Awarded for common good use of AI by Bundesministerium fur Arbeit in Berlin
+  - position: Chief Robotics Scientist
+    company_name: isento GmbH
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08-01
+    date_end: 2023-04-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      As the first employee in the research department responsible for developing the first affordable humanoid robot; PIB, I had to create a solid base for the project to build upon
+      Here are some of my achievements:
+      - Designed multiple joints including elbow, wrist, thumb and partially neck.
+      - Designed a new hand using half the number of motors in the old design thus reducing cost and power.
+      - Designed and implemented the whole electronic and power system of the robot.
+      - Worked on conceptual interactive synthetic skin, including its physical design, electronic chips and code for interfacing.
+      - Participated in multiple fairs including maker faire Hannover and Dedacta
+   - position: LEAD COMPLIANCE E-LEARNING ENGINEER
+    company_name: CCST
+    company_url: ""
+    company_logo: ""
+    date_start: 2022-03-01
+    date_end: 2023-08-01
+    summary: |
+      Responsible for creation of safety and compliance courses for workers and personnel in factories
+      Here are some of my achievements:
+      - Created 8+ modules for dealing with machinery and vehicles in a safe way.
+      - Participated in implementing the modules with online Moodle using AWS.
+  - position: Lead IOT Instructor
+    company_name: Coding Dojo
+    company_url: ""
+    company_logo: ""
+    date_start: 2021-05-01
+    date_end: 2022-02-01
+    summary: |
+     Part of the Internet of things bootcamp teaching team as an instructor.
+      Here are some of my achievements:
+      - Participated in delivering training in Arduino, Rpi, Python, Machine learning and AWS.
+      - Created recorded videos for networking interfaces.
+      - Mentored one of the 3 graduating teams for their final project: a smart city.
+      - Created curriculum for blockchain, cybersecurity and FinTech bootcamps.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
